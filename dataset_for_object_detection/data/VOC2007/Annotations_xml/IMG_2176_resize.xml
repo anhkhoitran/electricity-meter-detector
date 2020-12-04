@@ -1,0 +1,38 @@
+<annotation>
+	<folder>img_labeled</folder>
+	<filename>IMG_2176_resize.jpg</filename>
+	<path>C:\Users\Khoi Tran\Desktop\hk1-Năm 3\Các vấn đề NC&amp;UD trong CS\dataset_for_object_detection\img_labeled\IMG_2176_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>604</width>
+		<height>806</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>electricity_meter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>127</ymin>
+			<xmax>601</xmax>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>counter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>308</ymin>
+			<xmax>460</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>
